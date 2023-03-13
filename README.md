@@ -1,2 +1,2 @@
-# forkedfromFrontendMentor-news-homepage-main
+https://yagmurrrcan.github.io/forkedfromFrontendMentor-news-homepage-main/
  
